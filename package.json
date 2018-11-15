@@ -1,0 +1,23 @@
+{
+  "name": "better-errors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cardinal": "^2.1.1",
+    "renderkid": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "prettier": {
+    "parser": "babylon",
+    "trailingComma": "all",
+    "tabWidth": 4,
+    "semi": false
+  }
+}
