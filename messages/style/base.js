@@ -5,13 +5,15 @@ const colors = {
     red: {
         color: "bright-red",
     },
+    dBlue: {
+        color: "blue",
+    },
     blue: {
         color: "bright-blue",
     },
     green: {
         color: "bright-green",
     },
-
     dMagenta: {
         color: "magenta",
     },

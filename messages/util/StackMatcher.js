@@ -7,7 +7,7 @@ const format = (string, matches) => {
     string = `<m2><m2>at <green>${matches[1]}</green> (${path.resolve(
         process.cwd(),
         matches[2],
-    )}:<magenta>${matches[3]}</magenta>:<dMagenta>${matches[4]}</dMagenta>)`
+    )}:<blue>${matches[3]}</blue>:<dBlue>${matches[4]}</dBlue>)`
     return `<grey>${string}</grey>`
 }
 
